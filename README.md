@@ -15,8 +15,7 @@ Resources
 - Google colab and Jupyter notebook
 - Laptop with a webcam
 - Github
-- 4 project members: Pawan, Shree, Suraj, Swostik
-- Slack, google drive with Integrify account
+
 
 Programming languages : Python
 
